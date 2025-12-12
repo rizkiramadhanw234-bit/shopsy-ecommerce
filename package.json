@@ -1,6 +1,6 @@
 {
   "name": "11_ecommerce_web",
-  "homepage": "https://github.com/rizkiramadhanw234-bit/web-demo/",
+  "homepage": "https://github.com/rizkiramadhanw234-bit/shopsy-ecommerce.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -34,5 +34,16 @@
     "postcss": "^8.4.32",
     "tailwindcss": "^3.4.0",
     "vite": "^7.0.6"
+  },
+  "description": "E-Commers Of Shopsy",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizkiramadhanw234-bit/shopsy-ecommerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizkiramadhanw234-bit/shopsy-ecommerce.git/issues"
   }
 }
